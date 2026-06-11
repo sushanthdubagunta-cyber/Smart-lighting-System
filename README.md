@@ -35,6 +35,14 @@ The LDR continuously senses the surrounding light intensity and sends an analog 
 * LED connected to Digital Pin 13 through a 220Ω resistor
 * Connections made using Tinkercad connecting wires
 
+## Circuit Diagram
+
+![Circuit Diagram](circuit_diagram.png)
+
+## Simulation Output
+
+![Simulation Output](simulation_output.png)
+
 ## Applications
 
 * Automatic Street Lighting
