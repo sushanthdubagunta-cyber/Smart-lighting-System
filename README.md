@@ -52,7 +52,4 @@ The LDR continuously senses the surrounding light intensity and sends an analog 
 
 The Smart Lighting System was successfully simulated in Tinkercad. The Arduino continuously monitored ambient light conditions and automatically controlled the LED based on the detected light intensity, demonstrating a simple yet effective automation system.
 
-## Author
-
-Sushanth Dubagunta
 
